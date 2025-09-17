@@ -1,0 +1,5 @@
+train: data/YOLO_dataset/images/train
+val: data/YOLO_dataset/images/val
+
+nc: 1
+names: ["tbank_logo"]

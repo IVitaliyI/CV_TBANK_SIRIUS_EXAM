@@ -1,0 +1,5 @@
+train: data/FINAL_DATASET/images/train
+val: data/FINAL_DATASET/images/val
+
+nc: 1
+names: ["tbank_logo"]
