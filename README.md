@@ -18,6 +18,9 @@
 
 # Ссылки на веса
 
+Веса первой модели - файл best_first_model.pt
+Веса последней модели - файл best_second_model.pt
+
 # Ссылка на валидационный датасет
 https://disk.yandex.ru/d/cX7kuu7NlFRcEg
 
